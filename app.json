@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "OnThiThayTai-app",
+    "slug": "OnThiThayTai-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "OnThiThayTai-app"
+}
